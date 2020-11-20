@@ -1,0 +1,482 @@
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+.container-fluid {
+    width: 80%;
+}
+
+.Features-item {
+    padding: 12px 43px;
+}
+
+.Features {
+    margin-top: -501px;
+}
+
+.attachment-content {
+  position: relative;
+  top: -472px;
+}
+
+.dash-board {
+    max-width: 845px;
+}
+
+.footer-area footer a {
+    padding: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/*==========================
+only for tablet device------md-lg-tv.....
+=============================*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.container-fluid {
+    width: 99%;
+}
+
+.Features-item {
+    padding: 12px 14px;
+}
+
+.Community-text {
+    padding: 36px 0px;
+}
+
+.started-area {
+    height: 433px;
+}
+
+.Features {
+    margin-top: -501px;
+}
+
+.attachment-content {
+  position: relative;
+  top: -472px;
+}
+
+.dash-board {
+    max-width: 605px;
+}
+
+.intro-img {
+    height: 417px;
+}
+
+.dash-board-mobile {
+    bottom: -112px;
+    right: 5px;
+    max-width: 195px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/*==========================
+only for big mobile screen device---sm
+=============================*/
+@media screen and (min-width: 576px) and (max-width: 767px) {
+	
+.container-fluid {
+    width: 99%;
+}
+
+.top-area form {
+    margin: 0 auto;
+    min-width: 238px;
+}
+
+.navbar-brand {
+	display: inline-block;
+	margin: 0 auto
+}
+
+.top-hading a > h6 {
+	display: block;
+}
+
+.main-header {
+	text-align: center;
+	display: none;
+}
+
+.mobile-header {
+  display: block;
+}
+
+
+.aside {
+  top: 145px;
+}
+
+
+.top-area form nav > input {
+    max-width: 231px !important;
+}
+
+.Features-item ul li {
+    width: 50%;
+}
+
+.Features-item ul li a i {
+    font-size: 46px;
+}
+
+.Features-item ul li:nth-last-of-type(1) {
+  border-right: none;
+  border-bottom: none;
+}
+
+.Features-item ul li:nth-last-of-type(2) {
+  border-bottom: none;
+}
+
+.Features-item ul li:nth-last-of-type(3) {
+  border-right: none;
+  border-bottom: 1px solid #eee;
+}
+
+.Features-item ul li:nth-last-of-type(5) {
+  border-right: none;
+}
+
+.Features-item ul li:nth-last-of-type(7) {
+  border-right: none;
+}
+
+.Features-item ul li:nth-last-of-type(4) {
+  border-bottom: 1px solid #eee;
+}
+
+.Features-item {
+    padding: 12px 0px;
+}
+
+.Community-text {
+    padding: 36px 0px;
+}
+
+.started-area {
+    height: 499px;
+}
+
+.Community-area {
+    background-position: center;
+}
+
+.attachment-bg {
+    width: 100%;
+    height: 305px;
+    background-attachment: local;
+}
+
+.attachment-content {
+    margin-top: 0px;
+}
+
+.attachment-bg {
+	width: 100%;
+	height: 499px;
+	background-attachment: local;
+}
+
+
+.intro-header p {
+    padding: 22px 4px;
+}
+
+.Features {
+    margin-top: 0px;
+}
+
+.attachment-content {
+	position: relative;
+	top: 0px;
+}
+
+.dash-board {
+    max-width: 438px;
+}
+
+.intro-img {
+	height: 306px;
+}
+
+.dash-board-mobile {
+	bottom: -111px;
+	right: 5px;
+	max-width: 161px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*==========================
+only for small mobile device--col
+=============================*/
+@media screen and (max-width: 575px) {
+
+.container-fluid {
+    width: 99%;
+}
+
+.d-right-content a {
+    font-size: 23px;
+}
+
+.top-area form {
+    margin: 0 auto;
+}
+
+.navbar-brand {
+	display: inline-block;
+	margin: 0 auto
+}
+
+.top-hading a > h6 {
+	display: block;
+}
+
+.main-header {
+	text-align: center;
+	display: none;
+}
+
+.mobile-header {
+ 	display: block;
+}
+
+.aside {
+ 	top: 178px;
+}
+
+.top-area form {
+	margin: 0 auto;
+	min-width: 267px;
+}
+
+.navbar-brand a span {
+	font-size: 22px;
+}
+
+.Features-item ul li {
+	width: 50%;
+}
+
+.Features-item ul li a i {
+	font-size: 40px;
+}
+
+.Features-item ul li:nth-last-of-type(1) {
+	border-right: none;
+	border-bottom: none;
+}
+
+.Features-item ul li:nth-last-of-type(2) {
+	border-bottom: none;
+}
+
+.Features-item ul li:nth-last-of-type(3) {
+	border-right: none;
+	border-bottom: 1px solid #eee;
+}
+
+.Features-item ul li:nth-last-of-type(5) {
+	border-right: none;
+}
+
+.Features-item ul li:nth-last-of-type(7) {
+  	border-right: none;
+}
+
+.Features-item ul li:nth-last-of-type(4) {
+  	border-bottom: 1px solid #eee;
+}
+
+.Features-item ul li a p {
+    font-size: 15px;
+}
+
+.Features-item {
+    padding: 12px 0px;
+}
+
+.content-text img {
+    width: 53%;
+}
+
+.Community-text {
+    padding: 36px 0px;
+}
+
+.Community-area {
+    background-position: center;
+}
+
+.started-area {
+    height: 457px;
+}
+
+.start-text h1 {
+    font-size: 35px;
+}
+
+
+.start-text p {
+    font-size: 18px;
+}
+
+.Community-text p {
+    font-size: 18px;
+}
+.Community-text h2 {
+    font-size: 38px;
+}
+
+.features-header h1 {
+    font-size: 35px;
+    margin-top: 11px;
+}
+
+.features-header h4 {
+    font-size: 21px;
+}
+
+.intro-footer p {
+    font-size: 19px;
+}
+
+.intro-footer h1 {
+    font-size: 37px;
+}
+
+.intro-header p {
+    font-size: 19px;
+}
+
+.meet-text {
+	padding: 64px 7px;
+}
+.meet-text p {
+    font-size: 22px;
+}
+
+
+.meet-text h1 {
+    font-size: 47px;
+}
+
+.attachment-bg {
+    width: 100%;
+    height: 305px;
+    background-attachment: local;
+
+}
+
+.attachment-content {
+    margin-top: 0px;
+}
+
+.Features {
+    margin-top: 0px;
+}
+
+.attachment-content {
+	position: relative;
+	top: 0px;
+}
+
+.dash-board {
+    max-width: 443px;
+}
+
+.intro-img {
+	height: 309px;
+}
+
+.dash-board-mobile {
+    bottom: -110px;
+    right: 6px;
+    max-width: 161px;
+}
+
+.footer-area footer a {
+    padding: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
